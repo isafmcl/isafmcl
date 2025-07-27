@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Oi, eu sou a Isabelle Maciel 👩‍💻</h1>
 
-<!--
-**isafmcl/isafmcl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Estagiária de Desenvolvimento no Atacadão Dia a Dia <br>
+  📊 Crio soluções que simplificam rotinas, automatizam dados e transformam informação em decisão.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=isabellemaciel&label=Profile%20views&color=0e75b6&style=flat" alt="isabellemaciel" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Sobre mim
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 💙 Apaixonada por criar dashboards, integrar sistemas e trabalhar com APIs
+- 🧩 Trabalho com logs, servidores, deploys, automações e muito SQL
+- 🔄 Integro dados de sistemas como TOTVS, EMX e Azure
+
+---
+
+## 🔧 Tecnologias e Ferramentas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Projetos que fazem a diferença
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [📊 Dashboard de Chamados](https://github.com/seuusuario/dashboard-chamados) | Dashboard em Streamlit integrado a banco e APIs, com KPIs de SLA, produtividade e ranking | Python, FastAPI, SQL, Streamlit |
+| [🤖 Bot de Relatórios Diários](https://github.com/seuusuario/bot-relatorios) | Geração e envio automático de relatórios via e-mail e Telegram | Python, schedule, SMTP |
+| [🔗 Integração de APIs com TOTVS](https://github.com/seuusuario/totvs-api-integration) | Consulta de dados via REST, documentação com Swagger e testes no Postman | FastAPI, Swagger, Postman |
+| [🧠 Painel de Indicadores de TI](https://github.com/seuusuario/indicadores-ti) | KPIs inteligentes com cálculo de TMA, SLA, backlog e retrabalho | SQL, Power BI, Python |
+
+💬 Se quiser ver prints ou vídeos de algum projeto, estão nas respectivas páginas!
+
+---
+
+## 🧠 Aprendendo Agora
+
+- 🔐 Autenticação com AD e OAuth2
+- 📲 Desenvolvimento mobile com Flutter e Swift
+- 🧪 Testes com Pytest e Postman
+- ⚙️ Infra com Docker e Deploy via Azure
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/isabellemaciel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center"><i>“Quem busca solução, encontra um caminho. Quem busca desculpa, acha um obstáculo.”</i></p>
+
+<p align="center">✨ Obrigada por visitar meu perfil ✨</p>
+
