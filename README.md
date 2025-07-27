@@ -29,7 +29,7 @@
 
 ---
 
-## 📦 Projetos que fazem a diferença
+##  Projetos que fazem a diferença
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
@@ -38,11 +38,11 @@
 | [🔗 Integração de APIs com TOTVS](https://github.com/seuusuario/totvs-api-integration) | Consulta de dados via REST, documentação com Swagger e testes no Postman | FastAPI, Swagger, Postman |
 | [🧠 Painel de Indicadores de TI](https://github.com/seuusuario/indicadores-ti) | KPIs inteligentes com cálculo de TMA, SLA, backlog e retrabalho | SQL, Power BI, Python |
 
-💬 Se quiser ver prints ou vídeos de algum projeto, estão nas respectivas páginas!
+
 
 ---
 
-## 🧠 Aprendendo Agora
+##  Aprendendo Agora
 
 - 🔐 Autenticação com AD e OAuth2
 - 📲 Desenvolvimento mobile com Flutter e Swift
@@ -51,10 +51,10 @@
 
 ---
 
-## 📫 Contato
+##  Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/seu-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="[https://linkedin.com/in/seu-linkedin](http://linkedin.com/in/isabelle-maciel-3235262a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/isabellemaciel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
