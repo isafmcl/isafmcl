@@ -54,8 +54,10 @@
 ##  Contato
 
 <p align="left">
-  <a href="(http://linkedin.com/in/isabelle-maciel-3235262a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/isabellemaciel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/isabelle-maciel-3235262a5" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+  <a href="https://github.com/isafmcl"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
 ---
