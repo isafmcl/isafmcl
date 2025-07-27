@@ -1,9 +1,4 @@
-<h1 align="center">Oi, eu sou a Isabelle Maciel 👩‍💻</h1>
-
-<p align="center">
-  Estagiária de Desenvolvimento no Atacadão Dia a Dia <br>
-  📊 Crio soluções que simplificam rotinas, automatizam dados e transformam informação em decisão.
-</p>
+<h1 align="center">Oi, eu sou a Isabelle!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isabellemaciel&label=Profile%20views&color=0e75b6&style=flat" alt="isabellemaciel" />
@@ -15,7 +10,6 @@
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💙 Apaixonada por criar dashboards, integrar sistemas e trabalhar com APIs
 - 🧩 Trabalho com logs, servidores, deploys, automações e muito SQL
-- 🔄 Integro dados de sistemas como TOTVS, EMX e Azure
 
 ---
 
@@ -53,7 +47,7 @@
 - 🔐 Autenticação com AD e OAuth2
 - 📲 Desenvolvimento mobile com Flutter e Swift
 - 🧪 Testes com Pytest e Postman
-- ⚙️ Infra com Docker e Deploy via Azure
+- ⚙️ Infra com Docker
 
 ---
 
@@ -66,7 +60,5 @@
 
 ---
 
-<p align="center"><i>“Quem busca solução, encontra um caminho. Quem busca desculpa, acha um obstáculo.”</i></p>
-
-<p align="center">✨ Obrigada por visitar meu perfil ✨</p>
+<p align="center">Obrigada por visitar meu perfil!</p>
 
