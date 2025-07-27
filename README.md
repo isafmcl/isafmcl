@@ -6,14 +6,14 @@
 
 ---
 
-## 💡 Sobre mim
+##  Sobre mim
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 💙 Apaixonada por criar dashboards, integrar sistemas e trabalhar com APIs
 - 🧩 Trabalho com logs, servidores, deploys, automações e muito SQL
 
 ---
 
-## 🔧 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -54,7 +54,7 @@
 ##  Contato
 
 <p align="left">
-  <a href="[https://linkedin.com/in/seu-linkedin](http://linkedin.com/in/isabelle-maciel-3235262a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="(http://linkedin.com/in/isabelle-maciel-3235262a5)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/isabellemaciel"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
