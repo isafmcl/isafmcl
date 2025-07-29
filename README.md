@@ -29,19 +29,6 @@
 
 ---
 
-##  Projetos que fazem a diferença
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [📊 Dashboard de Chamados](https://github.com/seuusuario/dashboard-chamados) | Dashboard em Streamlit integrado a banco e APIs, com KPIs de SLA, produtividade e ranking | Python, FastAPI, SQL, Streamlit |
-| [🤖 Bot de Relatórios Diários](https://github.com/seuusuario/bot-relatorios) | Geração e envio automático de relatórios via e-mail e Telegram | Python, schedule, SMTP |
-| [🔗 Integração de APIs com TOTVS](https://github.com/seuusuario/totvs-api-integration) | Consulta de dados via REST, documentação com Swagger e testes no Postman | FastAPI, Swagger, Postman |
-| [🧠 Painel de Indicadores de TI](https://github.com/seuusuario/indicadores-ti) | KPIs inteligentes com cálculo de TMA, SLA, backlog e retrabalho | SQL, Power BI, Python |
-
-
-
----
-
 ##  Aprendendo Agora
 
 - 🔐 Autenticação com AD e OAuth2
