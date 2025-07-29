@@ -55,5 +55,5 @@
 
 ---
 
-<p align="center">Obrigada por visitar meu perfil!</p>p>
+<p align="center">Obrigada por visitar meu perfil!</p>
 
