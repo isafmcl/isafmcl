@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou a Isabelle!</h1>
+<h1 align="center">Olá, eu sou a Isabelle!</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isabellemaciel&label=Profile%20views&color=0e75b6&style=flat" alt="isabellemaciel" />
