@@ -9,7 +9,7 @@
 ##  Sobre mim
 - Estudante de Análise e Desenvolvimento de Sistemas  
 - Apaixonada por criar dashboards, integrar sistemas e trabalhar com APIs  
-- Trabalho com logs, servidores, deploys, automações e muito SQL
+- Trabalho com logs, deploys, automações e muito SQL
 
 ---
 
