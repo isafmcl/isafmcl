@@ -35,10 +35,10 @@
 
 ##  Aprendendo Agora
 
-- 🔐 Autenticação com AD e OAuth2  
-- 📲 Desenvolvimento mobile com Flutter e Swift  
-- 🧪 Testes com Pytest e Postman  
-- ⚙️ Infra com Docker  
+- Autenticação com AD e OAuth2 
+- Desenvolvimento mobile com Flutter e Swift  
+- Testes com Pytest e Postman  
+- Infra com Docker  
 
 ---
 
