@@ -7,7 +7,7 @@
 ---
 
 ##  Sobre mim
-- Estudante de Análise e Desenvolvimento de Sistemas  
+- Analista e Desenvolvedora de Sistemas  
 - Criação de dashboards, integração de sistemas e APIs  
 - Trabalho com logs, deploys, automações e muito SQL
 
