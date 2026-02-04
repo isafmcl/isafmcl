@@ -7,7 +7,7 @@
 ---
 
 ##  Sobre mim
-- Analista e Desenvolvedora de Sistemas  
+- Desenvolvedora de Sistemas  
 - Criação de dashboards, integração de sistemas e APIs  
 - Trabalho com logs, deploys, automações e muito SQL
 
